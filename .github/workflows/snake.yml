@@ -2,23 +2,27 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # 每12小时运行一次
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
     steps:
-      - uses: actions/checkout@v2
-      
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
         with:
           github_user_name: duoremifa
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
+        uses: EndBug/add-and-commit@v9
         with:
-          branch: output
           message: 'Generate Contribution Snake'
+          add: 'dist'
+          push: true
