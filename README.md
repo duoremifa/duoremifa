@@ -1,6 +1,6 @@
 # Dai-Min
 
-### 👋 Hi there, I'm Dai
+### 👋 Hi there, I'm Min
 
 I design and debug systems — from e‑commerce / logistics operations to the human nervous systems moving through those systems.
 
