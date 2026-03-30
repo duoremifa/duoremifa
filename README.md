@@ -1,4 +1,4 @@
-# Dai-Min
+# Dai Min
 
 👋 Hi there, I'm Dai
 
@@ -14,5 +14,5 @@ Previously I’ve been…
 - Builder of internal tools and dashboards to reduce operational and cognitive load  
 
 You can find more about my work at  
-[profile.neurodivergent-friendly.com](https://profile.neurodivergent-friendly.com/)  
+[Neurodivergent‑Friendly Profile](https://profile.neurodivergent-friendly.com/)  
 or reach me at `cranberry.dai [at] gmail.com`.
