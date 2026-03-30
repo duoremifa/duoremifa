@@ -1,18 +1,16 @@
-# Dai Min
+# Dai-Min
 
-👋 Hi there, I'm Dai
+### 👋 Hi there, I'm Dai
 
-I design and debug systems at two levels —  
-business operations (e‑commerce, logistics, BI) and human nervous systems moving through those operations.
+I design and debug systems — from e‑commerce / logistics operations to the human nervous systems moving through those systems.
 
-Currently I’m working on:  
-- Neurodivergent‑Friendly — protocols and tools for ND‑friendly work environments  
-- FrictionLog — logging invisible cognitive friction in everyday tools and workflows  
+_Currently I’m working on..._
+- **Neurodivergent‑Friendly** — protocols and tools for ND‑friendly work environments  
+- **FrictionLog** — logging invisible cognitive friction in everyday tools and workflows  
 
-Previously I’ve been…  
+_Previously I’ve been..._
 - Ops / product / BI lead in e‑commerce and logistics in China (Amazon‑style environments)  
 - Builder of internal tools and dashboards to reduce operational and cognitive load  
 
-You can find more about my work at  
-[Neurodivergent‑Friendly Profile](https://profile.neurodivergent-friendly.com/)  
-or reach me at `cranberry.dai [at] gmail.com`.
+You can find more about my work at [Neurodivergent‑Friendly Profile](https://profile.neurodivergent-friendly.com/).  
+You can contact me as **duoremifa** on most platforms..
