@@ -1,6 +1,6 @@
-# Min
+# Arietta
 
-### 👋 Hi there, I'm Min
+### 👋 Hi there, I'm Arietta
 
 I design and debug systems — from e‑commerce / logistics operations to the human nervous systems moving through those systems.
 
