@@ -1,4 +1,4 @@
-# Dai-Min
+# Min
 
 ### 👋 Hi there, I'm Min
 
